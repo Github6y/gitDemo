@@ -18,3 +18,4 @@ second change! hello
 222222222222222_gitclone
 use_ssh
 测试中文
+测试gitee强制刷新
